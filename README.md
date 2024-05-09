@@ -1,6 +1,17 @@
 # college-dropout-s
 Our project is on license plate recognition. Our code supports license plate preprocessing, character segmentation, and two different model implementations for character sequence recognition based on image input.
+
 Devpost Link: https://devpost.com/software/college-dropouts
+
+<img width="612" alt="Screen Shot 2024-05-09 at 4 52 58 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/6973b0ff-c088-417e-93ef-db0a47e3115c">
+
+<img width="459" alt="Screen Shot 2024-05-09 at 4 53 21 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/31ba6623-14ff-476f-88b2-ad2f493e609d">
+
+<img width="136" alt="Screen Shot 2024-05-09 at 4 53 34 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/5c13295d-8a6e-4e7e-a537-30df02af9011">
+<img width="325" alt="Screen Shot 2024-05-09 at 4 53 47 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/0d59d4bd-7bf8-4957-ab3d-d02300c0362a">
+
+<img width="345" alt="Screen Shot 2024-05-09 at 4 54 13 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/4cc25041-5faa-4bc9-b069-be0d3e565122">
+<img width="345" alt="Screen Shot 2024-05-09 at 4 54 26 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/38191fe9-d5fb-493f-940c-1eb6406cb6c4">
 
 ## To Run
 Download the dataset here: https://www.inf.ufpr.br/vri/databases/tbFcZE-RodoSol-ALPR.zip (3 GB)
