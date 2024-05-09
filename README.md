@@ -5,7 +5,7 @@ Devpost Link: https://devpost.com/software/college-dropouts
 
 <img width="612" alt="Screen Shot 2024-05-09 at 4 52 58 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/6973b0ff-c088-417e-93ef-db0a47e3115c">
 
-<img width="459" alt="Screen Shot 2024-05-09 at 4 53 21 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/31ba6623-14ff-476f-88b2-ad2f493e609d">
+<img width="350" alt="Screen Shot 2024-05-09 at 4 53 21 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/31ba6623-14ff-476f-88b2-ad2f493e609d">
 
 <img width="350" alt="Screen Shot 2024-05-09 at 4 53 34 PM" src="https://github.com/erc-ma/License-Plate-Recognition/assets/103232379/5c13295d-8a6e-4e7e-a537-30df02af9011">
 
